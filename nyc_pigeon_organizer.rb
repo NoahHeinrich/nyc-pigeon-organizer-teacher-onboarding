@@ -5,6 +5,6 @@ def nyc_pigeon_organizer(data)
 end
 
 def get_pigeon_names(data)
-  array = data.flatten
+  array = data.flatten(2)
   puts array
 end
