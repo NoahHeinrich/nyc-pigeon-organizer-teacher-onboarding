@@ -6,5 +6,5 @@ end
 
 def get_pigeon_names(data)
   array = data.flatten(2)
-  array.
+  array.map! {|item| item.flatten}
 end
