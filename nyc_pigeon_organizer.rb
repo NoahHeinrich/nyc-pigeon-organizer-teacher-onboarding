@@ -5,5 +5,6 @@ def nyc_pigeon_organizer(data)
 end
 
 def get_pigeon_names(data)
-
+  names = []
+  
 end
