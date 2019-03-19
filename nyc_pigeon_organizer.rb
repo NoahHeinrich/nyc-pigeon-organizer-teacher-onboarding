@@ -6,4 +6,5 @@ end
 
 def get_pigeon_names(data)
   array = data.flatten
+  puts array
 end
