@@ -4,6 +4,6 @@ def nyc_pigeon_organizer(data)
   
 end
 
-def name_in_hash?(name, hash)
-  hash.has_key?(name6)
+def get_pigeon_names(data)
+  array = data.flatten
 end
