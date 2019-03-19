@@ -6,5 +6,5 @@ end
 
 def get_pigeon_names(data)
   array = data.flatten(2)
-  puts array
+  array.each { |i| puts i}
 end
